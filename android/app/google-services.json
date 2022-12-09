@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104570842490",
+    "project_id": "fcmpush-fa3e7",
+    "storage_bucket": "fcmpush-fa3e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104570842490:android:db2bd5f3b04fa562e97ac3",
+        "android_client_info": {
+          "package_name": "com.bildirim2.fcmpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104570842490-lsoh457d2f72df0ap6dp8fsnvgepcmni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHFGSQCJyykF3EbhHjFHAjbbsCl1WlqIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104570842490-lsoh457d2f72df0ap6dp8fsnvgepcmni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
